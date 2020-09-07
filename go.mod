@@ -1,1 +1,1 @@
-module libs
+module git.alifpay.tj/providers/libs
