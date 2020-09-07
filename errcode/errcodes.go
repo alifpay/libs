@@ -1,4 +1,4 @@
-package errcodes
+package errcode
 
 const (
 	TransactionNotExists          = 104
